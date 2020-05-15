@@ -18,11 +18,12 @@ header h1{
 	color: white;
 	font-family: 'Sacramento', cursive;
 	font-size: 100px;
+	line-height: 120%;
 	padding-top: 50px;
 }
 
 header img{
-	border-radius: 170px;
+	border-radius: 50%;
 	width: 300px;
 	border: 10px solid #FFD166;
 }
